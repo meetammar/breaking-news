@@ -1,5 +1,5 @@
 === Breaking News ===
-Contributors: Toptal
+Contributors: Ammar Ilyas
 Donate link: https://www.toptal.com/
 Requires at least: 5.8
 Requires PHP: 7.0
